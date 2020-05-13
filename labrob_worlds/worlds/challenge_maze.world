@@ -66,10 +66,5 @@
       <uri>model://challenge_maze</uri>
       <pose>0 0 0 0 0 0</pose>
     </include>
-    <!-- The coins -->
-    <include>
-      <uri>model://challenge_coins</uri>
-      <pose>0 0 0 0 0 0</pose>
-    </include>
   </world>
 </sdf>
